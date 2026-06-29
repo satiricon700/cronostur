@@ -7,7 +7,7 @@ function App() {
   return (
     <div style={{ padding: '50px', textAlign: 'center' }}>
       <h1>{mensaje}</h1>
-      <p>El sistema está operativo.</p>
+      <p>Bienvenidos a mi proyecto de software cronostur</p>
     </div>
   );
 }
